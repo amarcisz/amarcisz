@@ -50,6 +50,9 @@
 <a href="https://www.linkedin.com/in/adam-marciszewski-a44561130">
  <img src="https://img.shields.io/badge/-Adam Marciszewski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-marciszewski-a44561130/"/>
 </a>
+  <a href="https://www.instagram.com/the.lazy.lifter/">
+<img src="https://img.shields.io/badge/-Adam%20Marciszewski-blueviolet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/the.lazy.lifter/"/>
+</a>
 </p>
 
 <h2 align="center">
