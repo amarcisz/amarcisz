@@ -13,23 +13,28 @@
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-BASIC-black?style=flat-square&logo=BASIC"/>
+  
+  <img src="https://img.shields.io/badge/-Xamarin-black?style=flat-square&logo=Xamarin"/>
+  
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whit"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
@@ -42,17 +47,19 @@
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: amarcisz97@gmail.com">
- <img src="https://img.shields.io/badge/-amarcisz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amarcisz97@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/adam-marciszewski-a44561130">
- <img src="https://img.shields.io/badge/-Adam Marciszewski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-marciszewski-a44561130/"/>
-</a>
-  <a href="https://www.instagram.com/the.lazy.lifter/">
-<img src="https://img.shields.io/badge/-Adam%20Marciszewski-blueviolet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/the.lazy.lifter/"/>
-</a>
+  <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+  <a href="mailto: amarcisz97@gmail.com">
+   <img src="https://img.shields.io/badge/-amarcisz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amarcisz97@gmail.com"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adam-marciszewski-a44561130">
+   <img src="https://img.shields.io/badge/-Adam Marciszewski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-marciszewski-a44561130/"/>
+  </a>
+    <a href="https://www.instagram.com/the.lazy.lifter/">
+    <img src="https://img.shields.io/badge/-Adam%20Marciszewski-blueviolet?style=flat-  square&logo=instagram&logoColor=white&link=https://www.instagram.com/the.lazy.lifter/"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amarcisz&style=flat-square&color=blue" alt=""/>
 </p>
 
 <h2 align="center">
