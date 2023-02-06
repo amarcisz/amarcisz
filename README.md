@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a graduate in Computer Science 🎓 from UNB Fredericton 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.
+Hi there, my name is Adam. I'm a highly motivated and skilled software developer 💻 with experience in a variety of programming languages and environments. I have a passion ❤️‍🔥 for creating innovative 💡 solutions to complex ⚙️ problems, and a drive to continuously improve my skills and knowledge✨. 
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
@@ -42,9 +42,7 @@
 
 
 
-
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
   <a href="mailto: amarcisz97@gmail.com">
@@ -56,6 +54,9 @@
     <a href="https://www.instagram.com/the.lazy.lifter/">
     <img src="https://img.shields.io/badge/-Adam%20Marciszewski-blueviolet?style=flat-  square&logo=instagram&logoColor=white&link=https://www.instagram.com/the.lazy.lifter/"/>
   </a>
+</p>
+<p align="center">
+  I am always eager to take on new challenges and to continue learning and growing as a software developer. If you have any opportunities that you think would be a good fit, please don't hesitate to reach out.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amarcisz&style=flat-square&color=blue" alt=""/>
